@@ -5,7 +5,7 @@ import org.apache.commons.lang3.time.StopWatch;
  */
 
 /**
- * @author larajos
+ * @author Jose Lara
  *
  */
 public class Driver {
