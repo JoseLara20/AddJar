@@ -1,3 +1,4 @@
+package com.solutionarquitect.git.learning;
 import org.apache.commons.lang3.time.StopWatch;
 
 /**
@@ -23,7 +24,7 @@ public class Driver {
 		
 		myStopWatch.stop();
 		
-		System.out.println("Finished....");
+		System.out.println("Finished!");
 		System.out.println("Time Processing was: " + myStopWatch.getTime());
 	}
 	
